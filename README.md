@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/72f29cfd-5bc7-432e-ad23-f4187d34dc98)# Tutorial 9 Pemrograman Lanjut: Publisher
+# Tutorial 9 Pemrograman Lanjut: Publisher
 ### Madeline Clairine Gultom - 2306207846 - ADPRO A
 
 > How much data your publisher program will send to the message broker in one run?
